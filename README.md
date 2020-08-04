@@ -1,4 +1,4 @@
-# enterprise_architecture
+# Enterprise_architecture
 Enterprise Architecture example of the "Car Sharing" Company
 
 This is a project of enterprise architecture, made together with my colleagues from the university. It's made for a car sharing company. 
